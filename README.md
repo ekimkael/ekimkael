@@ -1,11 +1,24 @@
 ### Hi there 👋
-I'm **Ekim Kael** a UX Engineer from Cameroon.
+I'm **Ekim Kael** a **UX Engineer** from Cameroon.
+> I love when beautiful things are useful
+
+Build apps for your users to quickly understand what you do so they can get started with you.
+
+### Technologies and tools I use to work with
 - 🔭 I’m currently working on [Nextrap](https://github.com/ekimkael/nextrap)
 - 🌱 I’m currently learning [**Swift**, **Testing in JS/React**]
 - 👯 I’m looking to collaborate on Whatever you think it's interesting I can help/build business with you
 - 🤔 I’m looking for help with **Swift**, **Nextjs**
 - 💬 Ask me about **Bootstrap**, **JS**, **React**
 - 📫 How to reach me: michelmbili@gmail.com
+> Incremental app update lover
+
+### Random things/Fun facts about me
+- Everyone who worked with me call me **Doctor Bootstrap** as I master the 4th version 😵
+- I 😍 animes/mangas and i've watched tons, my favorite is **FullMetal Alchemist Brotherhood**.
+- I never liked or even updated **Windows** in my life, but today I design apps and people are almost forced to update them and I find it funny.
+- I don't know why, but in multi-storey buildings, I like the second floor.
+- I'm panicked and stressed when I see over seven tabs open on my browser.
 
 <!--
 **ekimkael/ekimkael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
