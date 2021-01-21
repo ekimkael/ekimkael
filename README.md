@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm **Ekim Kael** a **UX Engineer** from **Cameroon**.
+I'm **Ekim Kael** an **UX Engineer** from **Cameroon**.
 > I love when beautiful things are useful
 
 Build apps for your users to quickly understand what you do so they can get started with you.
