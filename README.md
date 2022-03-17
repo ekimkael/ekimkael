@@ -14,7 +14,6 @@ Build apps for your users to quickly understand what you do so they can get star
 > Incremental app update lover
 
 ### Random things/Fun facts about me
-- Everyone who worked with me call me **Doctor Bootstrap** as I master the 4th version 😵
 - I 😍 animes/mangas and i've watched tons, my favorite is **FullMetal Alchemist Brotherhood**.
 - I never liked or even updated **Windows** in my life, but today I design apps and people are almost forced to update them and I find it funny.
 - I don't know why, but in multi-storey buildings, I like the second floor.
