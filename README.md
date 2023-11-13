@@ -5,7 +5,7 @@ I'm **Ekim Kael** an **UX Engineer** from **Cameroon**.
 Build apps for your users to quickly understand what you do so they can get started with you.
 
 ### Technologies and tools I use to work with
-- 🔭 I’m currently working on [We Care About You]([https://github.com/ekimkael/kamerapps](https://play.google.com/store/apps/details?id=com.lohce.wcay&gl=FR)
+- 🔭 I’m currently working on [We Care About You](https://play.google.com/store/apps/details?id=com.lohce.wcay&gl=FR)
 - 🌱 I’m currently learning [**Flutter**, **Testing in TS/React**]
 - 👯 I’m looking to collaborate on Whatever you think it's interesting I can help/build business with you
 - 🤔 I’m looking for help with **Flutter**,
